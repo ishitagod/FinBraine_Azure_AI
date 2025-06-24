@@ -13,10 +13,19 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment
 import os
 import json
+from dotenv import load_dotenv
 
-AZURE_ENDPOINT = "https://formrecogocr.cognitiveservices.azure.com/"
-AZURE_KEY      = "CaclGvzIwuOdWBnDsm5BSuQmZfNJug3xh1O1BJuul08jb8aYwH6nJQQJ99BFACGhslBXJ3w3AAALACOG6Egv"
-PDF_FILE_PATH  = r"D:\bitsg\Finbraine_Intern\Azure AI\PDFs\PRAKASH MAKKAN CHAUDHARI.pdf"
+# Load environment variables from .env file
+load_dotenv()
+
+# Get configuration from environment variables
+AZURE_ENDPOINT = os.getenv('AZURE_ENDPOINT')
+AZURE_KEY = os.getenv('AZURE_KEY')
+PDF_FILE_PATH = os.getenv('PDF_FILE_PATH')
+
+# Validate required environment variables
+if not all([AZURE_ENDPOINT, AZURE_KEY, PDF_FILE_PATH]):
+    raise ValueError("Missing required environment variables. Please check your .env file.")
 
 # -----------------------------------------------------------------------------  
 # 1. Count pages and build pages string

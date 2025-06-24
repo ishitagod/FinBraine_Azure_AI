@@ -4,10 +4,15 @@ from azure.core.credentials import AzureKeyCredential
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from PyPDF2 import PdfReader
 
-# Azure configuration
-AZURE_ENDPOINT = "https://formrecogocr.cognitiveservices.azure.com/"
-AZURE_KEY      = "CaclGvzIwuOdWBnDsm5BSuQmZfNJug3xh1O1BJuul08jb8aYwH6nJQQJ99BFACGhslBXJ3w3AAALACOG6Egv"
-PDF_FILE_PATH  = r"D:\bitsg\Finbraine_Intern\Azure AI\PDFs\PRAKASH MAKKAN CHAUDHARI.pdf"
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get configuration from environment variables
+AZURE_ENDPOINT = os.getenv('AZURE_ENDPOINT')
+AZURE_KEY = os.getenv('AZURE_KEY')
+PDF_FILE_PATH = os.getenv('PDF_FILE_PATH')
 
 # 1. Count pages and build pages string
 def get_pages_string(path):
