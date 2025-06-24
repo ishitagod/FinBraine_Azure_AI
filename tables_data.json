@@ -1,0 +1,1999 @@
+[
+  {
+    "SCORE NAME": "CREDITVISION® SCORE",
+    "SCORE": "684",
+    "SCORING FACTORS": "1: PRESENCE OF DELINQUENCY IN THE RECENT PAST 2: PRESENCE OF SEVERE DELINQUENCY AS OF RECENT UPDATE 3: PRESENCE OF DELINQUENCY 4: LOW PROPORTION OF SATISFACTORY TRADES"
+  },
+  {
+    "IDENTIFICATION TYPE": "INCOME TAX ID NUMBER (PAN)",
+    "IDENTIFICATION NUMBER": "ADLPC5254C",
+    "ISSUE DATE": "",
+    "EXPIRATION DATE": "16-07-2117"
+  },
+  {
+    "IDENTIFICATION TYPE": "VOTER ID NUMBER",
+    "IDENTIFICATION NUMBER": "MT1582510155",
+    "ISSUE DATE": "",
+    "EXPIRATION DATE": ""
+  },
+  {
+    "IDENTIFICATION TYPE": "RATION CARD NUMBER",
+    "IDENTIFICATION NUMBER": "07800",
+    "ISSUE DATE": "",
+    "EXPIRATION DATE": ""
+  },
+  {
+    "IDENTIFICATION TYPE": "UNIVERSAL ID NUMBER (UID)",
+    "IDENTIFICATION NUMBER": "XXXXXXXXXXXX",
+    "ISSUE DATE": "",
+    "EXPIRATION DATE": ""
+  },
+  {
+    "IDENTIFICATION TYPE": "CKYC",
+    "IDENTIFICATION NUMBER": "30094956268647",
+    "ISSUE DATE": "",
+    "EXPIRATION DATE": ""
+  },
+  {
+    "TELEPHONE TYPE": "NOT CLASSIFIED",
+    "TELEPHONE NUMBER TELEPHONE EXTENSION": "917020175570"
+  },
+  {
+    "TELEPHONE TYPE": "MOBILE PHONE",
+    "TELEPHONE NUMBER TELEPHONE EXTENSION": "917020175570"
+  },
+  {
+    "TELEPHONE TYPE": "NOT CLASSIFIED",
+    "TELEPHONE NUMBER TELEPHONE EXTENSION": "919422235341"
+  },
+  {
+    "DATE:17-06-2025": "",
+    "Column_1": "TIME: 17:45:04"
+  },
+  {
+    "DATE:17-06-2025": "CONTROL NUMBER: 9,21,80,25,778"
+  },
+  {
+    "ADDRESS :27/2, CHAUDHARI GALLI JALAKA BAZAR NANDURBAR,MAHARASTRA 425412 NEAR TOWER W NANDURBAR MAHARASHTRA 425412": "CATEGORY:RESIDENCE ADDRESS",
+    "Column_1": "RESIDENCE CODE: DATE REPORTED:31-12-2023"
+  },
+  {
+    "ADDRESS :27/2, CHAUDHARI GALLI JALAKA BAZAR NANDURBAR,MAHARASTRA 425412 NEAR TOWER W NANDURBAR MAHARASHTRA 425412": "ADDRESS :2712, CHAUDHARI, GALLI, JALAKA,BAZAR,NANDUR NANDURBAR NANDURBAR MAHARASHTRA 425412"
+  },
+  {
+    "ADDRESS :27/2, CHAUDHARI GALLI JALAKA BAZAR NANDURBAR,MAHARASTRA 425412 NEAR TOWER W NANDURBAR MAHARASHTRA 425412": "CATEGORY:PERMANENT ADDRESS",
+    "Column_1": "RESIDENCE CODE: DATE REPORTED:31-12-2023"
+  },
+  {
+    "ADDRESS :27/2, CHAUDHARI GALLI JALAKA BAZAR NANDURBAR,MAHARASTRA 425412 NEAR TOWER W NANDURBAR MAHARASHTRA 425412": "ADDRESS :A/P CHAUDHARI GALLI JALAKA",
+    "Column_1": "BAZAR NANDURBAR NANDURBAR MAHARASHTRA 425412"
+  },
+  {
+    "ADDRESS :27/2, CHAUDHARI GALLI JALAKA BAZAR NANDURBAR,MAHARASTRA 425412 NEAR TOWER W NANDURBAR MAHARASHTRA 425412": "CATEGORY:RESIDENCE ADDRESS",
+    "Column_1": "RESIDENCE CODE: DATE REPORTED:31-12-2023"
+  },
+  {
+    "ADDRESS :27/2, CHAUDHARI GALLI JALAKA BAZAR NANDURBAR,MAHARASTRA 425412 NEAR TOWER W NANDURBAR MAHARASHTRA 425412": "ADDRESS :2712 CHAUDHARI GALLI JALAKA",
+    "Column_1": "BAZAR NANDURBAR NANDURBAR HANUMAN MANDIR NANDURBAR MAHARASHTRA 425412"
+  },
+  {
+    "ADDRESS :27/2, CHAUDHARI GALLI JALAKA BAZAR NANDURBAR,MAHARASTRA 425412 NEAR TOWER W NANDURBAR MAHARASHTRA 425412": "CATEGORY:NOT CATEGORIZED",
+    "Column_1": "RESIDENCE CODE: DATE REPORTED:28-02-2022"
+  },
+  {
+    "ACCOUNT TYPE": "GOLD LOAN",
+    "DATE REPORTED": "30-11-2024",
+    "OCCUPATION CODE": "OTHERS",
+    "INCOME": "Not Available",
+    "NET / GROSS INCOME INDICATOR": "Not Available",
+    "MONTHLY / ANNUAL INCOME INDICATOR": "Not Available"
+  },
+  {
+    "ACCOUNT TYPE": "All Accounts",
+    "ACCOUNTS": "TOTAL: 53",
+    "ADVANCES": "HIGH CR/SANC. AMT: 3,66,44,603",
+    "BALANCES": "CURRENT: 83,74,814",
+    "DATE OPENED": "RECENT: 25-10-2024"
+  },
+  {
+    "ACCOUNT TYPE": "",
+    "ACCOUNTS": "OVERDUE: 7",
+    "ADVANCES": "",
+    "BALANCES": "OVERDUE: 18,27,392",
+    "DATE OPENED": "OLDEST: 04-02-2013"
+  },
+  {
+    "ACCOUNT TYPE": "",
+    "ACCOUNTS": "ZERO-BALANCE: 45",
+    "ADVANCES": "",
+    "BALANCES": "",
+    "DATE OPENED": ""
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 25-01-2021",
+    "AMOUNTS": "SANCTIONED: 3,00,000",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "CURRENT BALANCE: 3,03,088",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "31-05-2025",
+    "AMOUNTS": "OVERDUE: 3,03,088",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: BUSINESS LOAN - PRIORITY",
+    "DATES": "PMT HIST START: 01-05-2025",
+    "AMOUNTS": "PMT FREQ: MONTHLY",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "SECTOR - AGRICULTURE",
+    "DATES": "PMT HIST END: 01-06-2022",
+    "AMOUNTS": "INTEREST RATE: 10.00",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "DBT 05-25": "STD",
+    "DBT 04-25": "STD",
+    "DBT 03-25": "STD",
+    "DBT 02-25": "STD",
+    "DBT 01-25": "STD",
+    "SUB 12-24": "STD",
+    "SUB 11-24": "STD",
+    "SUB 10-24": "STD",
+    "SUB 09-24": "STD",
+    "SUB 08-24": "STD",
+    "SUB 07-24": "STD",
+    "SUB 06-24": "STD",
+    "SUB 05-24": "STD",
+    "SUB 04-24": "STD",
+    "SUB 03-24": "STD",
+    "SUB 02-24": "STD",
+    "SUB 01-24": "STD",
+    "STD 12-23": "STD"
+  },
+  {
+    "DBT 05-25": "11-23",
+    "DBT 04-25": "10-23",
+    "DBT 03-25": "09-23",
+    "DBT 02-25": "08-23",
+    "DBT 01-25": "07-23",
+    "SUB 12-24": "06-23",
+    "SUB 11-24": "05-23",
+    "SUB 10-24": "04-23",
+    "SUB 09-24": "03-23",
+    "SUB 08-24": "02-23",
+    "SUB 07-24": "01-23",
+    "SUB 06-24": "12-22",
+    "SUB 05-24": "11-22",
+    "SUB 04-24": "10-22",
+    "SUB 03-24": "09-22",
+    "SUB 02-24": "08-22",
+    "SUB 01-24": "07-22",
+    "STD 12-23": "06-22"
+  },
+  {
+    "194 05-25": "",
+    "176": "11-24",
+    "173": "10-24",
+    "170": "09-24",
+    "167": "08-24",
+    "164": "07-24",
+    "145": "01-24",
+    "142": "12-23"
+  },
+  {
+    "194 05-25": "139",
+    "191 04-25": "136",
+    "188 03-25": "133",
+    "185 02-25": "130",
+    "182 01-25": "127",
+    "179 12-24": "124",
+    "176": "121",
+    "173": "118",
+    "170": "115",
+    "167": "112",
+    "164": "109",
+    "161 06-24": "106",
+    "158 05-24": "103",
+    "154 04-24": "100",
+    "151 03-24": "900",
+    "148 02-24": "900",
+    "145": "900",
+    "142": "879"
+  },
+  {
+    "194 05-25": "11-23",
+    "191 04-25": "10-23",
+    "188 03-25": "09-23",
+    "185 02-25": "08-23",
+    "182 01-25": "07-23",
+    "179 12-24": "06-23",
+    "176": "05-23",
+    "173": "04-23",
+    "170": "03-23",
+    "167": "02-23",
+    "164": "01-23",
+    "161 06-24": "12-22",
+    "158 05-24": "11-22",
+    "154 04-24": "10-22",
+    "151 03-24": "09-22",
+    "148 02-24": "08-22",
+    "145": "07-22",
+    "142": "06-22"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 01-10-2022",
+    "AMOUNTS": "SANCTIONED: 29,02,601",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 31-05-2025",
+    "AMOUNTS": "CURRENT BALANCE: 18,31,053",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "OVERDUE: 1,98,832",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: CONSTRUCTION",
+    "DATES": "31-05-2025",
+    "AMOUNTS": "EMI: 64,608",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "EQUIPMENT LOAN",
+    "DATES": "PMT HIST START: 01-05-2025",
+    "AMOUNTS": "PMT FREQ: MONTHLY",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "PMT HIST END: 01-10-2022",
+    "AMOUNTS": "REPAYMENT TENURE: 60",
+    "STATUS": ""
+  },
+  {
+    "086 05-25": "120",
+    "083 04-25": "090",
+    "084 03-25": "090",
+    "084 02-25": "090",
+    "086 01-25": "060",
+    "178 12-24": "060",
+    "177 11-24": "000",
+    "161 10-24": "000",
+    "116 09-24": "000",
+    "117 08-24": "000",
+    "086 07-24": "000",
+    "084 06-24": "000",
+    "085 05-24": "000",
+    "083 04-24": "000",
+    "090 03-24": "",
+    "090 02-24": "",
+    "090 01-24": "",
+    "090 12-23": ""
+  },
+  {
+    "086 05-25": "11-23",
+    "083 04-25": "10-23",
+    "084 03-25": "09-23",
+    "084 02-25": "08-23",
+    "086 01-25": "07-23",
+    "178 12-24": "06-23",
+    "177 11-24": "05-23",
+    "161 10-24": "04-23",
+    "116 09-24": "03-23",
+    "117 08-24": "02-23",
+    "086 07-24": "01-23",
+    "084 06-24": "12-22",
+    "085 05-24": "11-22",
+    "083 04-24": "10-22",
+    "090 03-24": "",
+    "090 02-24": "",
+    "090 01-24": "",
+    "090 12-23": ""
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "ACCOUNT NUMBER: NOT",
+    "OPENED: 30-11-2022": "REPORTED AND CERTIFIED:"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "DISCLOSED",
+    "OPENED: 30-11-2022": "31-05-2025"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "TYPE: AUTO LOAN",
+    "OPENED: 30-11-2022": "PMT HIST START: 01-05-2025"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "OWNERSHIP: INDIVIDUAL",
+    "OPENED: 30-11-2022": "PMT HIST END: 01-11-2022"
+  },
+  {
+    "061 05-25": "STD",
+    "061 04-25": "STD",
+    "031 03-25": "STD",
+    "STD 02-25": "STD",
+    "000 01-25": "STD",
+    "000 12-24": "STD",
+    "061 11-24": "STD",
+    "061 10-24": "STD",
+    "061 09-24": "STD",
+    "031 08-24": "STD",
+    "000 07-24": "STD",
+    "XXX 06-24": "STD",
+    "061 05-24": "STD",
+    "061 04-24": "",
+    "031 03-24": "",
+    "STD 02-24": "",
+    "STD 01-24": "",
+    "STD 12-23": ""
+  },
+  {
+    "061 05-25": "11-23",
+    "061 04-25": "10-23",
+    "031 03-25": "09-23",
+    "STD 02-25": "08-23",
+    "000 01-25": "07-23",
+    "000 12-24": "06-23",
+    "061 11-24": "05-23",
+    "061 10-24": "04-23",
+    "061 09-24": "03-23",
+    "031 08-24": "02-23",
+    "000 07-24": "01-23",
+    "XXX 06-24": "12-22",
+    "061 05-24": "11-22",
+    "061 04-24": "",
+    "031 03-24": "",
+    "STD 02-24": "",
+    "STD 01-24": "",
+    "STD 12-23": ""
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 30-06-2022",
+    "AMOUNTS": "SANCTIONED: 30,00,000"
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "CURRENT BALANCE: 26,81,526"
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "31-05-2025",
+    "AMOUNTS": "OVERDUE: 68,010"
+  },
+  {
+    "ACCOUNT": "TYPE: HOUSING LOAN",
+    "DATES": "PMT HIST START: 01-05-2025",
+    "AMOUNTS": "EMI: 34,005"
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: JOINT",
+    "DATES": "PMT HIST END: 01-05-2024",
+    "AMOUNTS": "PMT FREQ: MONTHLY"
+  },
+  {
+    "ACCOUNT": "",
+    "DATES": "",
+    "AMOUNTS": "REPAYMENT TENURE: 132 INTEREST RATE: 9.00"
+  },
+  {
+    "049": "10-24",
+    "018": "09-24",
+    "000": "07-24",
+    "STD": "02-25",
+    "079": "11-24",
+    "019": "08-24",
+    "XXX": "06-24",
+    "080": "05-24"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 07-08-2021",
+    "AMOUNTS": "SANCTIONED: 15,00,000"
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "CURRENT BALANCE: 9,18,726"
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "31-05-2025",
+    "AMOUNTS": "OVERDUE: 45,548"
+  },
+  {
+    "ACCOUNT": "TYPE: AUTO LOAN",
+    "DATES": "PMT HIST START: 01-05-2025",
+    "AMOUNTS": "EMI: 22,934"
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "PMT HIST END: 01-06-2022",
+    "AMOUNTS": "PMT FREQ: MONTHLY"
+  },
+  {
+    "049 05-25": "STD",
+    "018 04-25": "STD",
+    "000 03-25": "STD",
+    "STD 02-25": "STD",
+    "000 01-25": "STD",
+    "000 12-24": "STD",
+    "000 11-24": "STD",
+    "019 10-24": "STD",
+    "000 09-24": "STD",
+    "019 08-24": "STD",
+    "000 07-24": "STD",
+    "XXX 06-24": "STD",
+    "049 05-24": "STD",
+    "049 04-24": "STD",
+    "079 03-24": "STD",
+    "STD 02-24": "STD",
+    "STD 01-24": "STD",
+    "STD 12-23": "STD"
+  },
+  {
+    "049 05-25": "11-23",
+    "018 04-25": "10-23",
+    "000 03-25": "09-23",
+    "STD 02-25": "08-23",
+    "000 01-25": "07-23",
+    "000 12-24": "06-23",
+    "000 11-24": "05-23",
+    "019 10-24": "04-23",
+    "000 09-24": "03-23",
+    "019 08-24": "02-23",
+    "000 07-24": "01-23",
+    "XXX 06-24": "12-22",
+    "049 05-24": "11-22",
+    "049 04-24": "10-22",
+    "079 03-24": "09-22",
+    "STD 02-24": "08-22",
+    "STD 01-24": "07-22",
+    "STD 12-23": "06-22"
+  },
+  {
+    "011": "05-25",
+    "000": "05-24"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 25-10-2024"
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 04-12-2024"
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "REPORTED AND CERTIFIED:"
+  },
+  {
+    "ACCOUNT": "TYPE: GOLD LOAN",
+    "DATES": "15-05-2025"
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "PMT HIST START: 01-05-2025"
+  },
+  {
+    "ACCOUNT": "COLLATERAL TYPE: NO COLLATERAL",
+    "DATES": "PMT HIST END: 01-10-2024"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 04-05-2024",
+    "AMOUNTS": "SANCTIONED: 9,36,105"
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 04-12-2024",
+    "AMOUNTS": "CURRENT BALANCE: 0"
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 09-01-2025",
+    "AMOUNTS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: PRIORITY SECTOR- GOLD",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": ""
+  },
+  {
+    "ACCOUNT": "LOAN - SECURED",
+    "DATES": "15-01-2025",
+    "AMOUNTS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "PMT HIST START: 01-01-2025",
+    "AMOUNTS": ""
+  },
+  {
+    "ACCOUNT": "",
+    "DATES": "PMT HIST END: 01-01-2025",
+    "AMOUNTS": ""
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 16-01-2024",
+    "AMOUNTS": "SANCTIONED: 4,39,843",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 26-02-2024",
+    "AMOUNTS": "CURRENT BALANCE: 0",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 26-02-2024",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: PRIORITY SECTOR- GOLD",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "LOAN - SECURED",
+    "DATES": "29-02-2024",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "PMT HIST START: 01-02-2024 PMT HIST END: 01-01-2024",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "",
+    "STATUS": ""
+  },
+  {
+    "000 02-24": "ACCOUNT",
+    "000 01-24": "DATES",
+    "": "STATUS"
+  },
+  {
+    "000 02-24": "MEMBER NAME: NOT DISCLOSED",
+    "000 01-24": "OPENED: 21-12-2023",
+    "": ""
+  },
+  {
+    "000 02-24": "ACCOUNT NUMBER: NOT",
+    "000 01-24": "LAST PAYMENT: 26-03-2024",
+    "": ""
+  },
+  {
+    "000 02-24": "DISCLOSED",
+    "000 01-24": "CLOSED: 26-03-2024",
+    "": ""
+  },
+  {
+    "000 02-24": "TYPE: PRIORITY SECTOR- GOLD",
+    "000 01-24": "REPORTED AND CERTIFIED:",
+    "": ""
+  },
+  {
+    "000 02-24": "LOAN - SECURED",
+    "000 01-24": "31-03-2024",
+    "": ""
+  },
+  {
+    "000 02-24": "OWNERSHIP: INDIVIDUAL",
+    "000 01-24": "PMT HIST START: 01-03-2024",
+    "": ""
+  },
+  {
+    "000 02-24": "COLLATERAL TYPE: NO COLLATERAL",
+    "000 01-24": "PMT HIST END: 01-12-2023",
+    "": ""
+  },
+  {
+    "000": "12-23"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 21-12-2023",
+    "AMOUNTS": "SANCTIONED: 6,57,883",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT NUMBER: NOT": "DISCLOSED",
+    "LAST PAYMENT: 26-03-2024": "CLOSED: 26-03-2024"
+  },
+  {
+    "ACCOUNT NUMBER: NOT": "TYPE: PRIORITY SECTOR- GOLD",
+    "LAST PAYMENT: 26-03-2024": "REPORTED AND CERTIFIED:"
+  },
+  {
+    "ACCOUNT NUMBER: NOT": "LOAN - SECURED",
+    "LAST PAYMENT: 26-03-2024": "31-03-2024"
+  },
+  {
+    "ACCOUNT NUMBER: NOT": "OWNERSHIP: INDIVIDUAL",
+    "LAST PAYMENT: 26-03-2024": "PMT HIST START: 01-03-2024"
+  },
+  {
+    "ACCOUNT NUMBER: NOT": "COLLATERAL TYPE: NO COLLATERAL",
+    "LAST PAYMENT: 26-03-2024": "PMT HIST END: 01-12-2023"
+  },
+  {
+    "000": "12-23"
+  },
+  {
+    "000": "07-23",
+    "073": "09-24",
+    "043": "08-24",
+    "012": "07-24"
+  },
+  {
+    "000 05-24": "",
+    "067": "04-24",
+    "037": "03-24",
+    "006": "02-24",
+    "000": "02-23"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 23-02-2023",
+    "AMOUNTS": "SANCTIONED: 4,23,606"
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 21-12-2023",
+    "AMOUNTS": "CURRENT BALANCE: 0"
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 21-12-2023",
+    "AMOUNTS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: PRIORITY SECTOR- GOLD",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": ""
+  },
+  {
+    "ACCOUNT": "LOAN - SECURED",
+    "DATES": "31-12-2023",
+    "AMOUNTS": ""
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "ACCOUNT NUMBER: NOT",
+    "OPENED: 24-02-2023": "LAST PAYMENT: 04-05-2024"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "DISCLOSED",
+    "OPENED: 24-02-2023": "CLOSED: 04-05-2024"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "TYPE: PRIORITY SECTOR- GOLD",
+    "OPENED: 24-02-2023": "REPORTED AND CERTIFIED:"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "LOAN - SECURED",
+    "OPENED: 24-02-2023": "31-05-2024"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "OWNERSHIP: INDIVIDUAL",
+    "OPENED: 24-02-2023": "PMT HIST START: 01-05-2024"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "COLLATERAL TYPE: NO COLLATERAL",
+    "OPENED: 24-02-2023": "PMT HIST END: 01-02-2023"
+  },
+  {
+    "000": "02-23"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 14-12-2022"
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 24-02-2023"
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 24-02-2023"
+  },
+  {
+    "ACCOUNT": "TYPE: GOLD LOAN",
+    "DATES": "REPORTED AND CERTIFIED:"
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "28-02-2023"
+  },
+  {
+    "ACCOUNT": "COLLATERAL TYPE: NO COLLATERAL",
+    "DATES": "PMT HIST START: 01-02-2023"
+  },
+  {
+    "ACCOUNT": "",
+    "DATES": "PMT HIST END: 01-12-2022"
+  },
+  {
+    "000": "09-22",
+    "080": "11-23",
+    "050": "10-23",
+    "019": "09-23"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "ACCOUNT NUMBER: NOT",
+    "OPENED: 28-06-2022": "LAST PAYMENT: 24-12-2024",
+    "SANCTIONED: 96,230": "CURRENT BALANCE: 0"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "DISCLOSED",
+    "OPENED: 28-06-2022": "REPORTED AND CERTIFIED:",
+    "SANCTIONED: 96,230": "EMI: 5,133"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "TYPE: TWO-WHEELER LOAN",
+    "OPENED: 28-06-2022": "31-05-2025",
+    "SANCTIONED: 96,230": "PMT FREQ: MONTHLY"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "OWNERSHIP: INDIVIDUAL",
+    "OPENED: 28-06-2022": "PMT HIST START: 01-05-2025",
+    "SANCTIONED: 96,230": "REPAYMENT TENURE: 24"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "",
+    "OPENED: 28-06-2022": "PMT HIST END: 01-06-2022",
+    "SANCTIONED: 96,230": "ACTUAL PAYMENT: 3"
+  },
+  {
+    "000": "06-22",
+    "039": "01-23",
+    "008": "12-22"
+  },
+  {
+    "000": "06-22"
+  },
+  {
+    "ACCOUNT": "",
+    "DATES": "",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "000": "05-22"
+  },
+  {
+    "000": "12-22",
+    "064": "06-23",
+    "034": "05-23",
+    "003": "04-23"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 08-02-2022",
+    "AMOUNTS": "SANCTIONED: 3,02,688",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "CLOSED: 25-04-2022",
+    "AMOUNTS": "CURRENT BALANCE: 0",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: GOLD LOAN",
+    "DATES": "25-04-2022",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "PMT HIST START: 01-04-2022 PMT HIST END: 01-02-2022",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DAYS PAST DUE/ASSET CLASSIFICATION (UP TO 36 MONTHS; LEFT TO RIGHT)",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "000",
+    "DATES": "000",
+    "AMOUNTS": "000",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "04-22",
+    "DATES": "03-22",
+    "AMOUNTS": "02-22",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT",
+    "DATES": "DATES",
+    "AMOUNTS": "AMOUNTS",
+    "STATUS": "STATUS"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 03-02-2022",
+    "AMOUNTS": "SANCTIONED: 13,11,480",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 14-12-2022",
+    "AMOUNTS": "CURRENT BALANCE: 0",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 14-12-2022",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "000": "02-22"
+  },
+  {
+    "000 12-23": "000",
+    "008 11-23": "000",
+    "000 10-23": "000",
+    "000 09-23": "000",
+    "000 08-23": "000",
+    "000 07-23": "000",
+    "000 06-23": "000",
+    "000 05-23": "000",
+    "000 04-23": "000",
+    "000 03-23": "",
+    "000 02-23": "",
+    "000 01-23": "",
+    "000 12-22": "",
+    "000 11-22": "",
+    "000 10-22": "",
+    "000 09-22": "",
+    "000 08-22": "",
+    "000 07-22": ""
+  },
+  {
+    "000 12-23": "06-22",
+    "008 11-23": "05-22",
+    "000 10-23": "04-22",
+    "000 09-23": "03-22",
+    "000 08-23": "02-22",
+    "000 07-23": "01-22",
+    "000 06-23": "12-21",
+    "000 05-23": "11-21",
+    "000 04-23": "10-21",
+    "000 03-23": "",
+    "000 02-23": "",
+    "000 01-23": "",
+    "000 12-22": "",
+    "000 11-22": "",
+    "000 10-22": "",
+    "000 09-22": "",
+    "000 08-22": "",
+    "000 07-22": ""
+  },
+  {
+    "000": "09-21"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 30-08-2021",
+    "AMOUNTS": "SANCTIONED: 2,82,978",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 16-10-2021",
+    "AMOUNTS": "CURRENT BALANCE: 0",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 16-10-2021",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: GOLD LOAN",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "31-12-2021",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "000": "08-21",
+    "XXX": "10-21"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 11-08-2021",
+    "AMOUNTS": "HIGH CREDIT: 33,561",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 29-10-2021",
+    "AMOUNTS": "CURRENT BALANCE: 0",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 02-11-2021",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: SECURED CREDIT CARD",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "02-11-2021 PMT HIST START: 01-11-2021 PMT HIST END: 01-09-2021",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "000": "08-21",
+    "": ""
+  },
+  {
+    "000": "STATUS",
+    "": ""
+  },
+  {
+    "000": ""
+  },
+  {
+    "000": "",
+    "Column_10": ""
+  },
+  {
+    "000": "",
+    "Column_10": ""
+  },
+  {
+    "000": "",
+    "Column_10": ""
+  },
+  {
+    "000": "",
+    "Column_10": ""
+  },
+  {
+    "000": "",
+    "Column_10": ""
+  },
+  {
+    "000": ""
+  },
+  {
+    "000": "",
+    "": "000",
+    "Column_10": "000"
+  },
+  {
+    "000": ""
+  },
+  {
+    "04-22": "ACCOUNT",
+    "03-22": "",
+    "02-22": "",
+    "": "",
+    "01-22": "DATES",
+    "12-21": "",
+    "11-21": "",
+    "10-21": "AMOUNTS",
+    "09-21": "",
+    "08-21": "STATUS",
+    "07-21": ""
+  },
+  {
+    "04-22": "MEMBER NAME: NOT DISCLOSED",
+    "01-22": "OPENED: 15-07-2020",
+    "12-21": "",
+    "": "",
+    "11-21": "",
+    "10-21": "SANCTIONED: 32,00,000",
+    "08-21": "",
+    "07-21": ""
+  },
+  {
+    "04-22": "ACCOUNT NUMBER: NOT",
+    "02-22": "",
+    "": "",
+    "01-22": "CLOSED: 31-05-2024",
+    "12-21": "",
+    "11-21": "",
+    "10-21": "CURRENT BALANCE:",
+    "09-21": "0",
+    "08-21": "",
+    "07-21": ""
+  },
+  {
+    "04-22": "DISCLOSED",
+    "02-22": "",
+    "": "",
+    "01-22": "REPORTED AND",
+    "12-21": "CERTIFIED:",
+    "11-21": "",
+    "10-21": "EMI: 71,075",
+    "09-21": "",
+    "08-21": "",
+    "07-21": ""
+  },
+  {
+    "04-22": "TYPE: COMMERCIAL",
+    "02-22": "VEHICLE",
+    "": "",
+    "01-22": "31-05-2024",
+    "12-21": "",
+    "11-21": "",
+    "10-21": "PMT FREQ: MONTHLY",
+    "09-21": "",
+    "08-21": "",
+    "07-21": ""
+  },
+  {
+    "04-22": "LOAN",
+    "": "",
+    "03-22": "",
+    "02-22": "",
+    "01-22": "PMT HIST",
+    "12-21": "01-05-2024",
+    "11-21": "",
+    "10-21": "REPAYMENT TENURE:",
+    "09-21": "58",
+    "08-21": "",
+    "07-21": ""
+  },
+  {
+    "04-22": "OWNERSHIP: INDIVIDUAL",
+    "02-22": "",
+    "": "",
+    "01-22": "PMT HIST END: 01-06-2021",
+    "11-21": "",
+    "10-21": "INTEREST RATE: 10.75",
+    "08-21": "",
+    "07-21": ""
+  },
+  {
+    "04-22": "DAYS PAST DUE/ASSET CLASSIFICATION",
+    "01-22": "(UP TO 36 MONTHS; LEFT TO RIGHT)",
+    "10-21": "",
+    "09-21": "",
+    "": "",
+    "08-21": "",
+    "07-21": ""
+  },
+  {
+    "04-22": "000",
+    "": "STD",
+    "03-22": "079",
+    "02-22": "STD",
+    "01-22": "STD",
+    "12-21": "STD",
+    "11-21": "STD",
+    "10-21": "STD",
+    "09-21": "STD",
+    "08-21": "STD",
+    "07-21": "STD"
+  },
+  {
+    "04-22": "05-24",
+    "": "12-22",
+    "03-22": "03-24",
+    "02-22": "02-24",
+    "01-22": "12-23",
+    "12-21": "10-23",
+    "11-21": "08-23",
+    "10-21": "07-23",
+    "09-21": "05-23",
+    "08-21": "03-23",
+    "07-21": "01-23"
+  },
+  {
+    "04-22": "STD",
+    "": "STD",
+    "03-22": "STD",
+    "02-22": "STD",
+    "01-22": "STD",
+    "12-21": "STD",
+    "11-21": "STD",
+    "10-21": "STD",
+    "09-21": "STD",
+    "08-21": "STD",
+    "07-21": "STD"
+  },
+  {
+    "04-22": "11-22",
+    "": "06-21",
+    "03-22": "09-22",
+    "02-22": "08-22",
+    "01-22": "06-22",
+    "12-21": "04-22",
+    "11-21": "02-22",
+    "10-21": "01-22",
+    "09-21": "11-21",
+    "08-21": "09-21",
+    "07-21": "07-21"
+  },
+  {
+    "000": "12-24",
+    "025": "10-23",
+    "055": "11-23",
+    "086": "05-24",
+    "084": "04-24",
+    "054": "03-24",
+    "085": "02-24",
+    "056": "01-24"
+  },
+  {
+    "000": "055",
+    "025": "000",
+    "055": "000",
+    "086": "031",
+    "084": "000",
+    "054": "000",
+    "085": "032",
+    "056": "000"
+  },
+  {
+    "000": "06-23",
+    "025": "04-22",
+    "055": "05-22",
+    "086": "11-22",
+    "084": "10-22",
+    "054": "09-22",
+    "085": "08-22",
+    "056": "07-22"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "ACCOUNT NUMBER: NOT",
+    "OPENED: 16-01-2019": "LAST PAYMENT: 08-05-2019"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "DISCLOSED",
+    "OPENED: 16-01-2019": "CLOSED: 28-05-2019"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "TYPE: GOLD LOAN",
+    "OPENED: 16-01-2019": "REPORTED AND CERTIFIED:"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "OWNERSHIP: INDIVIDUAL",
+    "OPENED: 16-01-2019": "28-05-2019"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "COLLATERAL TYPE: GOLD",
+    "OPENED: 16-01-2019": "PMT HIST START: 01-05-2019"
+  },
+  {
+    "MEMBER NAME: NOT DISCLOSED": "",
+    "OPENED: 16-01-2019": "PMT HIST END: 01-01-2019"
+  },
+  {
+    "05-19 04-19": "ACCOUNT",
+    "03-19": "DATES",
+    "02-19 01-19": "AMOUNTS",
+    "Column_3": "STATUS"
+  },
+  {
+    "05-19 04-19": "MEMBER NAME: NOT DISCLOSED",
+    "03-19": "OPENED: 14-01-2019",
+    "02-19 01-19": "SANCTIONED: 1,05,000",
+    "Column_3": ""
+  },
+  {
+    "05-19 04-19": "ACCOUNT NUMBER: NOT",
+    "03-19": "LAST PAYMENT: 27-05-2019",
+    "02-19 01-19": "CURRENT BALANCE: 0",
+    "Column_3": ""
+  },
+  {
+    "05-19 04-19": "DISCLOSED",
+    "03-19": "CLOSED: 27-05-2019",
+    "02-19 01-19": "REPAYMENT TENURE: 12",
+    "Column_3": ""
+  },
+  {
+    "05-19 04-19": "TYPE: GOLD LOAN",
+    "03-19": "REPORTED AND CERTIFIED:",
+    "02-19 01-19": "INTEREST RATE: 26.00",
+    "Column_3": ""
+  },
+  {
+    "05-19 04-19": "OWNERSHIP: INDIVIDUAL",
+    "03-19": "27-05-2019",
+    "02-19 01-19": "ACTUAL PAYMENT: 1,05,000",
+    "Column_3": ""
+  },
+  {
+    "05-19 04-19": "COLLATERAL VALUE: 105050",
+    "03-19": "PMT HIST START: 01-05-2019",
+    "02-19 01-19": "",
+    "Column_3": ""
+  },
+  {
+    "05-19 04-19": "COLLATERAL TYPE: GOLD",
+    "03-19": "PMT HIST END: 01-01-2019",
+    "02-19 01-19": "",
+    "Column_3": ""
+  },
+  {
+    "000": "01-19"
+  },
+  {
+    "000": "12-22",
+    "XXX": "08-23"
+  },
+  {
+    "000": "000",
+    "XXX": "000"
+  },
+  {
+    "000": "06-21",
+    "XXX": "02-22"
+  },
+  {
+    "000": "04-21",
+    "XXX": "12-21",
+    "STD": "10-20"
+  },
+  {
+    "000": "000",
+    "XXX": "000",
+    "STD": "000"
+  },
+  {
+    "09-20": "ACCOUNT",
+    "07-20": "",
+    "06-20": "",
+    "05-20": "",
+    "04-20": "DATES",
+    "03-20": "",
+    "02-20": "",
+    "01-20": "",
+    "12-19": "",
+    "11-19": "AMOUNTS",
+    "10-19": "",
+    "09-19": "",
+    "08-19": "",
+    "07-19": "STATUS",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "MEMBER NAME: NOT DISCLOSED",
+    "05-20": "",
+    "04-20": "OPENED: 22-01-2018",
+    "01-20": "",
+    "12-19": "",
+    "11-19": "SANCTIONED: 1,97,000",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "ACCOUNT NUMBER: NOT",
+    "06-20": "",
+    "05-20": "",
+    "04-20": "LAST PAYMENT: 29-05-2018",
+    "01-20": "",
+    "12-19": "",
+    "11-19": "CURRENT",
+    "10-19": "BALANCE:",
+    "09-19": "0",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "DISCLOSED",
+    "06-20": "",
+    "05-20": "",
+    "04-20": "CLOSED: 29-05-2018",
+    "01-20": "",
+    "12-19": "",
+    "11-19": "REPAYMENT",
+    "10-19": "TENURE:",
+    "09-19": "12",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "TYPE: GOLD LOAN",
+    "06-20": "",
+    "05-20": "",
+    "04-20": "REPORTED AND CERTIFIED:",
+    "01-20": "",
+    "12-19": "",
+    "11-19": "INTEREST RATE: 24.00",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "OWNERSHIP: INDIVIDUAL",
+    "06-20": "",
+    "05-20": "",
+    "04-20": "29-05-2018",
+    "01-20": "",
+    "12-19": "",
+    "11-19": "ACTUAL",
+    "10-19": "PAYMENT: 1,97,000",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "COLLATERAL VALUE: 197900",
+    "05-20": "",
+    "04-20": "PMT HIST",
+    "03-20": "START: 01-05-2018",
+    "12-19": "",
+    "11-19": "",
+    "10-19": "",
+    "09-19": "",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "COLLATERAL TYPE: GOLD",
+    "05-20": "",
+    "04-20": "PMT HIST END: 01-05-2018",
+    "12-19": "",
+    "11-19": "",
+    "10-19": "",
+    "09-19": "",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "DAYS PAST DUE/ASSET CLASSIFICATION",
+    "04-20": "(UP TO 36 MONTHS; LEFT TO RIGHT)",
+    "12-19": "",
+    "11-19": "",
+    "10-19": "",
+    "09-19": "",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "000",
+    "08-20": "",
+    "07-20": "",
+    "06-20": "",
+    "05-20": "",
+    "04-20": "",
+    "03-20": "",
+    "02-20": "",
+    "01-20": "",
+    "12-19": "",
+    "11-19": "",
+    "10-19": "",
+    "09-19": "",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "09-20": "05-18",
+    "08-20": "",
+    "07-20": "",
+    "06-20": "",
+    "05-20": "",
+    "04-20": "",
+    "03-20": "",
+    "02-20": "",
+    "01-20": "",
+    "12-19": "",
+    "11-19": "",
+    "10-19": "",
+    "09-19": "",
+    "08-19": "",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": ""
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 30-06-2015",
+    "AMOUNTS": "SANCTIONED: 36,000",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 16-03-2016",
+    "AMOUNTS": "CURRENT BALANCE: 0",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 13-05-2017",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: CONSUMER LOAN",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "31-03-2021 PMT HIST START: 01-03-2021 PMT HIST END: 01-04-2018",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "000": "03-21",
+    "XXX": "10-19",
+    "XXX\n:selected:\n:selected:": "02-20",
+    "XXX\n:selected:": "12-19"
+  },
+  {
+    "000": "XXX",
+    "XXX": "000",
+    "XXX\n:selected:\n:selected:": "000",
+    "XXX\n:selected:": "000"
+  },
+  {
+    "000": "09-19",
+    "XXX": "04-18",
+    "XXX\n:selected:\n:selected:": "08-18",
+    "XXX\n:selected:": "06-18"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "": "",
+    "DATES": "OPENED: 30-06-2015",
+    "AMOUNTS": "SANCTIONED:",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "": "",
+    "DATES": "LAST PAYMENT: 16-03-2016",
+    "AMOUNTS": "CURRENT",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "": "",
+    "DATES": "CLOSED: 13-05-2017",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: CONSUMER LOAN",
+    "": "",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "": "",
+    "DATES": "31-03-2021 PMT HIST START: 01-03-2021 PMT HIST END: 01-04-2018",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "",
+    "": "",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DAYS PAST DUE/ASSET CLASSIFICATION (UP TO 36 MONTHS; LEFT TO RIGHT)",
+    "AMOUNTS": "",
+    "": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "000",
+    "Column_1": "XXX",
+    "": "XXX",
+    "DATES": "XXX",
+    "AMOUNTS": "XXX",
+    "STATUS": "XXX"
+  },
+  {
+    "ACCOUNT": "03-21",
+    "Column_1": "02-21",
+    "": "10-19",
+    "DATES": "10-20",
+    "AMOUNTS": "05-20",
+    "STATUS": "01-20"
+  },
+  {
+    "ACCOUNT": "XXX\n:selected:",
+    "Column_1": "XXX",
+    "": "000",
+    "DATES": "000",
+    "AMOUNTS": "000",
+    "STATUS": "000"
+  },
+  {
+    "09-19": "ACCOUNT",
+    "07-19": "",
+    "06-19": "",
+    "05-19": "",
+    "04-19": "DATES",
+    "03-19": "",
+    "02-19": "",
+    "01-19": "",
+    "12-18": "",
+    "11-18": "AMOUNTS",
+    "10-18": "",
+    "09-18": "",
+    "08-18": "",
+    "07-18": "STATUS",
+    "06-18": "",
+    "05-18": "",
+    "04-18": ""
+  },
+  {
+    "09-19": "MEMBER NAME: NOT",
+    "06-19": "DISCLOSED",
+    "05-19": "",
+    "04-19": "OPENED: 30-06-2015",
+    "01-19": "",
+    "12-18": "",
+    "11-18": "SANCTIONED:",
+    "09-18": "84,000",
+    "08-18": "",
+    "07-18": "",
+    "06-18": "",
+    "05-18": "",
+    "04-18": ""
+  },
+  {
+    "09-19": "ACCOUNT NUMBER: NOT",
+    "06-19": "",
+    "05-19": "",
+    "04-19": "LAST PAYMENT: 16-03-2016",
+    "12-18": "",
+    "11-18": "CURRENT",
+    "10-18": "BALANCE:",
+    "09-18": "0",
+    "08-18": "",
+    "07-18": "",
+    "06-18": "",
+    "05-18": "",
+    "04-18": ""
+  },
+  {
+    "09-19": "DISCLOSED",
+    "06-19": "",
+    "05-19": "",
+    "04-19": "CLOSED: 13-05-2017",
+    "01-19": "",
+    "12-18": "",
+    "11-18": "",
+    "10-18": "",
+    "09-18": "",
+    "08-18": "",
+    "07-18": "",
+    "06-18": "",
+    "05-18": "",
+    "04-18": ""
+  },
+  {
+    "09-19": "TYPE: CONSUMER",
+    "06-19": "LOAN",
+    "05-19": "",
+    "04-19": "REPORTED AND CERTIFIED:",
+    "12-18": "",
+    "11-18": "",
+    "10-18": "",
+    "09-18": "",
+    "08-18": "",
+    "07-18": "",
+    "06-18": "",
+    "05-18": "",
+    "04-18": ""
+  },
+  {
+    "09-19": "OWNERSHIP: INDIVIDUAL",
+    "05-19": "",
+    "04-19": "31-03-2021 PMT HIST START: 01-03-2021 PMT HIST END: 01-04-2018",
+    "12-18": "",
+    "11-18": "",
+    "10-18": "",
+    "09-18": "",
+    "08-18": "",
+    "07-18": "",
+    "06-18": "",
+    "05-18": "",
+    "04-18": ""
+  },
+  {
+    "09-19": "",
+    "05-19": "",
+    "12-18": "",
+    "10-18": "",
+    "09-18": "",
+    "08-18": "",
+    "07-18": "",
+    "06-18": "",
+    "05-18": "",
+    "04-18": ""
+  },
+  {
+    "09-19": "",
+    "05-19": "",
+    "12-18": "",
+    "10-18": "",
+    "09-18": "",
+    "08-18": "",
+    "07-18": "",
+    "06-18": "",
+    "05-18": "",
+    "04-18": ""
+  },
+  {
+    "000": "03-21",
+    "XXX": "10-19"
+  },
+  {
+    "000": "XXX",
+    "XXX": "000"
+  },
+  {
+    "000": "09-19",
+    "XXX": "04-18"
+  },
+  {
+    "000 03-21": "",
+    "XXX": "12-19",
+    "XXX\n:selected:": "10-19"
+  },
+  {
+    "000 03-21": "XXX",
+    "XXX 02-21": "XXX",
+    "XXX 01-21": "000",
+    "XXX 12-20": "000",
+    "XXX 11-20": "000",
+    "XXX 10-20": "000",
+    "XXX 09-20": "000",
+    "XXX 08-20": "000",
+    "XXX 07-20": "000",
+    "XXX 06-20": "000",
+    "XXX 05-20": "000",
+    "XXX 04-20": "000",
+    "XXX 03-20": "000",
+    "XXX 02-20\n:selected:": "000",
+    "XXX 01-20": "000",
+    "XXX": "000",
+    "XXX 11-19": "000",
+    "XXX\n:selected:": "000"
+  },
+  {
+    "000 03-21": "09-19",
+    "XXX 02-21": "08-19",
+    "XXX 01-21": "07-19",
+    "XXX 12-20": "06-19",
+    "XXX 11-20": "05-19",
+    "XXX 10-20": "04-19",
+    "XXX 09-20": "03-19",
+    "XXX 08-20": "02-19",
+    "XXX 07-20": "01-19",
+    "XXX 06-20": "12-18",
+    "XXX 05-20": "11-18",
+    "XXX 04-20": "10-18",
+    "XXX 03-20": "09-18",
+    "XXX 02-20\n:selected:": "08-18",
+    "XXX 01-20": "07-18",
+    "XXX": "06-18",
+    "XXX 11-19": "05-18",
+    "XXX\n:selected:": "04-18"
+  },
+  {
+    "STD": "01-21",
+    "SUB": "06-21"
+  },
+  {
+    "STD": "12-19"
+  },
+  {
+    "000": "09-13",
+    "XXX": "10-13"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 03-07-2013",
+    "AMOUNTS": "SANCTIONED: 88,000",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 22-03-2017",
+    "AMOUNTS": "CURRENT BALANCE: 0",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 22-03-2017",
+    "AMOUNTS": "INTEREST RATE: 11.00",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: KISAN CREDIT CARD",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "ACTUAL PAYMENT: 1,26,417",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "31-03-2017",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "COLLATERAL TYPE: PROPERTY",
+    "DATES": "PMT HIST START: 01-03-2017 PMT HIST END: 01-04-2014",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "",
+    "STATUS": ""
+  },
+  {
+    "STD": "10-15"
+  },
+  {
+    "STD": "STD"
+  },
+  {
+    "STD": "04-14"
+  },
+  {
+    "ACCOUNT": "MEMBER NAME: NOT DISCLOSED",
+    "DATES": "OPENED: 13-05-2013",
+    "AMOUNTS": "SANCTIONED: 21,200",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "ACCOUNT NUMBER: NOT",
+    "DATES": "LAST PAYMENT: 25-02-2014",
+    "AMOUNTS": "CURRENT BALANCE: 0",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DISCLOSED",
+    "DATES": "CLOSED: 23-03-2014",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "TYPE: CONSUMER LOAN",
+    "DATES": "REPORTED AND CERTIFIED:",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "OWNERSHIP: INDIVIDUAL",
+    "DATES": "31-03-2021 PMT HIST START: 01-03-2021 PMT HIST END: 01-04-2018",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "ACCOUNT": "DAYS PAST DUE/ASSET CLASSIFICATION (UP TO 36 MONTHS; LEFT TO RIGHT)",
+    "AMOUNTS": "",
+    "STATUS": ""
+  },
+  {
+    "000": "03-21",
+    "XXX": "10-19"
+  },
+  {
+    "XXX": "04-18"
+  },
+  {
+    "000": "03-21",
+    "XXX": "01-20",
+    "XXX\n:selected:": "10-19",
+    "XXX\n:selected:\n:selected:": "12-19"
+  },
+  {
+    "000": "XXX\n:selected:",
+    "XXX": "XXX",
+    "XXX\n:selected:": "XXX\n:selected:",
+    "XXX\n:selected:\n:selected:": "XXX\n:selected:"
+  },
+  {
+    "000": "09-19",
+    "XXX": "07-18",
+    "XXX\n:selected:": "04-18",
+    "XXX\n:selected:\n:selected:": "06-18"
+  },
+  {
+    "000 03-21": "",
+    "XXX\n:selected:": "10-19"
+  },
+  {
+    "000 03-21": "XXX\n:selected:",
+    "XXX 02-21": "XXX",
+    "XXX 01-21": "XXX",
+    "XXX 12-20": "XXX",
+    "XXX 11-20": "XXX",
+    "XXX 10-20": "XXX",
+    "XXX 09-20": "XXX",
+    "XXX 08-20": "XXX",
+    "XXX 07-20\n:selected:": "XXX\n:selected:",
+    "XXX 06-20": "XXX",
+    "XXX 05-20\n:selected:": "XXX",
+    "XXX 04-20\n:selected:": "XXX",
+    "XXX 03-20\n:selected:\n:selected:": "XXX",
+    "XXX 02-20\n:selected:\n:selected:": "XXX\n:selected:",
+    "XXX 01-20": "XXX",
+    "XXX 12-19\n:selected:\n:selected:": "XXX",
+    "XXX 11-19\n:selected:": "XXX\n:selected:",
+    "XXX\n:selected:": "XXX"
+  },
+  {
+    "000 03-21": "09-19",
+    "XXX 02-21": "08-19",
+    "XXX 01-21": "07-19",
+    "XXX 12-20": "06-19",
+    "XXX 11-20": "05-19",
+    "XXX 10-20": "04-19",
+    "XXX 09-20": "03-19",
+    "XXX 08-20": "02-19",
+    "XXX 07-20\n:selected:": "01-19",
+    "XXX 06-20": "12-18",
+    "XXX 05-20\n:selected:": "11-18",
+    "XXX 04-20\n:selected:": "10-18",
+    "XXX 03-20\n:selected:\n:selected:": "09-18",
+    "XXX 02-20\n:selected:\n:selected:": "08-18",
+    "XXX 01-20": "07-18",
+    "XXX 12-19\n:selected:\n:selected:": "06-18",
+    "XXX 11-19\n:selected:": "05-18",
+    "XXX\n:selected:": "04-18"
+  },
+  {
+    "XXX\n:selected:": "02-21",
+    "XXX": "11-20",
+    "STD": "09-19"
+  },
+  {
+    "XXX\n:selected:": "STD",
+    "XXX": "STD",
+    "STD": "000"
+  },
+  {
+    "XXX\n:selected:": "08-19",
+    "XXX": "05-19",
+    "STD": "03-18"
+  },
+  {
+    "XXX": "07-15",
+    "000": "06-15"
+  },
+  {
+    "XXX": "04-15",
+    "000": "03-15"
+  },
+  {
+    "MEMBER": "NASHIKMCOOP",
+    "ENQUIRY DATE": "09-09-2024",
+    "ENQUIRY PURPOSE": "OTHER",
+    "ENQUIRY AMOUNT": "1"
+  },
+  {
+    "MEMBER": "NASHIKMCOOP",
+    "ENQUIRY DATE": "20-02-2024",
+    "ENQUIRY PURPOSE": "OTHER",
+    "ENQUIRY AMOUNT": "1"
+  },
+  {
+    "MEMBER": "NOT DISCLOSED",
+    "ENQUIRY DATE": "17-11-2022",
+    "ENQUIRY PURPOSE": "OTHER",
+    "ENQUIRY AMOUNT": "15,00,000"
+  },
+  {
+    "MEMBER": "NOT DISCLOSED",
+    "ENQUIRY DATE": "28-09-2022",
+    "ENQUIRY PURPOSE": "AUTO LOAN",
+    "ENQUIRY AMOUNT": "25,00,000"
+  },
+  {
+    "MEMBER": "NOT DISCLOSED",
+    "ENQUIRY DATE": "12-09-2022",
+    "ENQUIRY PURPOSE": "BUSINESS LOAN - GENERAL",
+    "ENQUIRY AMOUNT": "30,00,000"
+  },
+  {
+    "MEMBER": "NOT DISCLOSED",
+    "ENQUIRY DATE": "29-06-2022",
+    "ENQUIRY PURPOSE": "LOAN AGAINST SHARES/ SECURITIES",
+    "ENQUIRY AMOUNT": "11,00,000"
+  },
+  {
+    "MEMBER": "NOT DISCLOSED",
+    "ENQUIRY DATE": "28-06-2022",
+    "ENQUIRY PURPOSE": "TWO-WHEELER LOAN",
+    "ENQUIRY AMOUNT": "96,230"
+  },
+  {
+    "MEMBER": "NOT DISCLOSED",
+    "ENQUIRY DATE": "21-06-2022",
+    "ENQUIRY PURPOSE": "TWO-WHEELER LOAN",
+    "ENQUIRY AMOUNT": "96,230"
+  },
+  {
+    "MEMBER": "NOT DISCLOSED",
+    "ENQUIRY DATE": "14-06-2022",
+    "ENQUIRY PURPOSE": "TWO-WHEELER LOAN",
+    "ENQUIRY AMOUNT": "87,400"
+  }
+]
