@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is the Consumer name?",
+    "answer": "“NOT DISCLOSED”"
+  },
+  {
+    "question": "What is the Creditvision Score? (Answer with the integer value only.)",
+    "answer": "684"
+  },
+  {
+    "question": "Income Tax ID Number (PAN)",
+    "answer": "ADLPC5254C"
+  },
+  {
+    "question": "CKYC number",
+    "answer": "30094956268647"
+  },
+  {
+    "question": "List all telephone entries in the form 'Telephone Type:, Telephone Number:', one per line.",
+    "answer": "Telephone Type: NOT CLASSIFIED\nTelephone Number: 919422235341\nTelephone Number: 917020175570\nTelephone Number: 917020175570\nTelephone Type: NOT CLASSIFIED\nTelephone Number: 917020175570\nTelephone Type: MOBILE PHONE\nTelephone Number: 917020175570\nTelephone Type: NOT CLASSIFIED\nTelephone Number: 917020175570"
+  },
+  {
+    "question": "What is the Consumer type? (E.g., 'Retail', 'Corporate'. Return text only.)",
+    "answer": "TYPE: CONSUMER"
+  },
+  {
+    "question": "What is the report Date? (Return in YYYY-MM-DD format.)",
+    "answer": "2023-01-12"
+  },
+  {
+    "question": "List all email addresses found under 'Email Contact(s)'",
+    "answer": "I am sorry, but the provided data does not contain any email addresses. The data only provides addresses and other relevant information."
+  },
+  {
+    "question": "List each Address as 'Category: [full address]', one per line.",
+    "answer": "Here’s the extracted data for each address, presented as requested:\n\n*   Category: PERMANENT ADDRESS\n*   Category: NOT CATEGORIZED\n*   Category: RESIDENCE ADDRESS\n*   Category: RESIDENCE CODE: DATE REPORTED:31-12-2023\n*   Category: RESIDENCE ADDRESS\n*   Category: RESIDENCE CODE: DATE REPORTED:31-12-2023"
+  },
+  {
+    "question": "Under 'Summary Accounts', what is the Account Type? (Return text only.)",
+    "answer": "\"\""
+  },
+  {
+    "question": "Under 'Summary Accounts', how many Accounts? (Return the integer count.)",
+    "answer": "1"
+  },
+  {
+    "question": "Under 'Summary Accounts', what are the Advances? (Return the numeric total, numbers only.)",
+    "answer": "3,66,44,603"
+  },
+  {
+    "question": "Under 'Summary Accounts', what are the Balances? (Return the numeric total, numbers only.)",
+    "answer": "9,18,726\n26,81,526\n3,03,088"
+  },
+  {
+    "question": "Under 'Summary Accounts', what is the Date Opened? (Return in YYYY-MM-DD format.)",
+    "answer": "2024-12-14"
+  },
+  {
+    "question": "Under 'Enquiries', what is the Total enquiries? (Return integer only.)",
+    "answer": "9"
+  },
+  {
+    "question": "Under 'Enquiries', how many enquiries in the Past 30 days? (Integer only.)",
+    "answer": "3"
+  },
+  {
+    "question": "Under 'Enquiries', how many enquiries in the Past 12 months? (Integer only.)",
+    "answer": "3"
+  },
+  {
+    "question": "Under 'Enquiries', how many enquiries in the Past 24 months? (Integer only.)",
+    "answer": "9"
+  },
+  {
+    "question": "What is the Latest Enquiry Purpose? (Return the text of the most recent enquiry.)",
+    "answer": "TWO-WHEELER LOAN"
+  },
+  {
+    "question": "Under 'Accounts (Section)', list each Account name, one per line.",
+    "answer": "ACCOUNT\nMEMBER NAME: NOT DISCLOSED\nMEMBER NAME: NOT DISCLOSED\nMEMBER NAME: NOT DISCLOSED"
+  },
+  {
+    "question": "Under 'Accounts (Section)', list each Date (for each account), one per line (YYYY-MM-DD).",
+    "answer": "Here’s the extracted data for the \"Accounts (Section)\" based on the provided JSON:\n\n*   01-01-2025\n*   01-12-2022\n*   02-24-2023\n*   05-01-2025"
+  },
+  {
+    "question": "Under 'Accounts (Section)', list each Amount, one per line (numbers only).",
+    "answer": "000\n000\nSANCTIONED: 2,82,978"
+  },
+  {
+    "question": "Under 'Accounts (Section)', list each Status, one per line.",
+    "answer": "\"\"\n\"\"\n\"\"\n\"DATES\"\n\"\"\n\"STATUS\""
+  },
+  {
+    "question": "Under 'Accounts (Section)', list each 'Days Past Due/Asset Classification' vector (one line per account).",
+    "answer": "DAYS PAST DUE/ASSET CLASSIFICATION\n01-22\n10-21\n09-21\n08-21\n07-21\n06-19\n05-19\n04-19"
+  }
+]
